@@ -1,5 +1,4 @@
 package com.sparta.junit5practice;
-
 public class Calculator {
     public Double operate(double num1, String op, double num2) {
         switch (op) {
